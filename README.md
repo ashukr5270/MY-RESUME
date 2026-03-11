@@ -1,3 +1,9 @@
+Recently updated my resume and realized how every project and learning experience adds value to the journey. 
+Grateful for the progress so far and excited about the opportunities ahead where I can apply my skills and 
+continue growing professionally. 🚀
+
+
+
 RESUME:-
 * Keep it 1 page, focused on skills + projects.
 
