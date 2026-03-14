@@ -11,7 +11,7 @@ RESUME:-
 
 * Use action verbs (“Built”, “Developed”, “Implemented”).
 
-* List tech stack clearly (Languages, AWS Services, Infrastructure).
+* List tech stack clearly (Languages, AWS Services, Devops Services).
 
 * Add links (GitHub, Portfolio, LinkedIn).
 
