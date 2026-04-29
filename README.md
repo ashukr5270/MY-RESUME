@@ -3,7 +3,7 @@ Grateful for the progress so far and excited about the opportunities ahead where
 continue growing professionally. 🚀
 
 
-![image_alt(https://github.com/ashukr5270/MY-RESUME/blob/main/ATS%20Resume%20Checker%20.jpeg?raw=true)]
+![image_alt](https://github.com/ashukr5270/MY-RESUME/blob/main/ATS%20Resume%20Checker%20.jpeg?raw=true)
 
 
 
