@@ -14,7 +14,7 @@ CV:-
 
 * Use action verbs (“Built”, “Developed”, “Implemented”).
 
-* List tech stack clearly (Languages, AWS Services, Cloud Infrastructure).
+* List tech stack clearly (Languages, AWS Services, Cloud Infrastructure & Containerization).
 
 * Add links (GitHub, Portfolio, LinkedIn).
 
